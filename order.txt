@@ -1,1 +1,2 @@
+//klasa startowa
 class{}
